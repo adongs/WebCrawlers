@@ -1,0 +1,51 @@
+{
+	"ImportPath": "WebCrawlers",
+	"GoVersion": "go1.9",
+	"GodepVersion": "v80",
+	"Deps": [
+		{
+			"ImportPath": "github.com/PuerkitoBio/goquery",
+			"Comment": "v1.3.0-6-g61aa197",
+			"Rev": "61aa1975b1f7856927c526b0e0cd8c8b3a3030d0"
+		},
+		{
+			"ImportPath": "github.com/andybalholm/cascadia",
+			"Comment": "v1.0.0",
+			"Rev": "901648c87902174f774fac311d7f176f8647bdaa"
+		},
+		{
+			"ImportPath": "github.com/bitly/go-simplejson",
+			"Comment": "v0.5.0-8-g0c96595",
+			"Rev": "0c965951289cce37dec52ad1f34200fefc816777"
+		},
+		{
+			"ImportPath": "github.com/mozillazg/request",
+			"Comment": "v0.8.0-2-gf66876a",
+			"Rev": "f66876a1e3667af79d0cafa29a14ab7e667588ac"
+		},
+		{
+			"ImportPath": "github.com/tidwall/gjson",
+			"Rev": ""
+		},
+		{
+			"ImportPath": "github.com/tidwall/match",
+			"Rev": "1731857f09b1f38450e2c12409748407822dc6be"
+		},
+		{
+			"ImportPath": "golang.org/x/net/html",
+			"Rev": "6078986fec03a1dcc236c34816c71b0e05018fda"
+		},
+		{
+			"ImportPath": "golang.org/x/net/html/atom",
+			"Rev": "6078986fec03a1dcc236c34816c71b0e05018fda"
+		},
+		{
+			"ImportPath": "golang.org/x/net/proxy",
+			"Rev": "6078986fec03a1dcc236c34816c71b0e05018fda"
+		},
+		{
+			"ImportPath": "golang.org/x/net/publicsuffix",
+			"Rev": "6078986fec03a1dcc236c34816c71b0e05018fda"
+		}
+	]
+}
